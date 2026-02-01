@@ -1,5 +1,5 @@
 {
-  "name": "stremio-addon",
+  "name": "stremio-cbs-live",
   "version": "1.0.0",
   "description": "CBS Live addon for Stremio",
   "main": "index.js",
