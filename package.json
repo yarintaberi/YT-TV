@@ -1,17 +1,13 @@
 {
   "name": "stremio-addon",
   "version": "1.0.0",
-  "description": "",
+  "description": "CBS Live addon for Stremio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^4.22.1",
-    "stremio-addon-sdk": "^1.6.10"
+    "stremio-addon-sdk": "^5.0.0"
   }
 }
